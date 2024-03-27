@@ -83,3 +83,6 @@ If you want to jump in at a specific step of the workshop, there are available b
     * `group/step-3`: State after resolving, and running `git commit`
         * Edit the merge conflict, by accepting/rejecting - either in the VSCode GUI or picking what you want from the `<<<<<<<`, `=======`, `>>>>>>>` delimeters.
         * `git commit`
+
+
+Hello world
