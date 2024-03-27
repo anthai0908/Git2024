@@ -12,10 +12,10 @@
 * Location: Sneaky Possum Bar, Chippendale
 * Time: 6-10pm, 24rd Feb 2024
 
-### Beginners' Python
+### Beginners' Git
 
 * Location: CB11.05.400 (iHub)
-* Time: 6-8pm, 28th Feb 2024
+* Time: 6-8pm, 27th Mar 2024
 
 ### Beginners' Java
 
